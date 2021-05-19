@@ -1,4 +1,4 @@
-**Invited Talks and tutorials, etc.** <br />
+**Invited talks and tutorials, etc.** <br />
 
  This repository includes the talks slides and other materials (if any). 
 
