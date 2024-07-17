@@ -1,7 +1,7 @@
 # =============================================================================
 #### Info #### 
 # =============================================================================
-# simple Q-Learning model
+# simple RL model
 # single true parameters, true lr = 0.6, tau = 1.5, pRew = 0.7
 #
 # Lei Zhang
@@ -27,7 +27,7 @@ dataList = list(nTrials=nTrials,
 rstan_options(auto_write = TRUE)
 options(mc.cores = 4)
 
-modelFile = 'scripts/q_learning_single_subj.stan'
+modelFile = 'scripts/simple_RL_single_subj.stan'
 
 nIter     = 2000
 nChains   = 4 
